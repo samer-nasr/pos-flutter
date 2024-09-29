@@ -93,4 +93,51 @@ Install dependencies Run the following command to install all the required Flutt
 ### Laravel: https://laravel.com
 
 
+## Screenshots:
+
+### Login Page:
+
+![Product Screenshot](./login.PNG)
+
+### Home Page:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/home%20page.PNG)
+
+### Home Page Items:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/home%20page%20items.PNG).
+
+### Home Page After Adding Items To Cart:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/home%20page%20after%20adding%20items%20to%20cart.PNG).
+
+### Product List Page:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/product%20list%20page.PNG).
+
+### Product List With Search Functionality:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/product%20list%20with%20search%20functionality.PNG)
+
+### Cart Checkout Page:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/cart%20checkout%20page.PNG)
+
+### Sales History Page:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/c1c9747b533faa19ee912c1a312b138b769dad3c/sales%20history.PNG)
+
+## API Screenshot:
+
+![Product Screenshot](https://github.com/samer-nasr/pos-flutter/blob/658a769c9bc6c9c75e7cd1a442e11f39f9308cdb/api%20routes.PNG)
+
+
+
+
+
+
+
+
+
+
 
